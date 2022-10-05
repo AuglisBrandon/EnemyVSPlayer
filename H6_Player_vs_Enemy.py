@@ -4,7 +4,7 @@
 # In[16]:
 
 
-# Homework 6: Player Vs Enemy
+
 # Program By: Micah Lemoine & Brandon Auglis
 # File Name: H6_Player_Vs_Enemy.py
 # Function: This program creates Player and Enemy classes and has objects from each class interact
